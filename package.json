@@ -1,0 +1,20 @@
+{
+  "name": "BoogleBookSearch",
+  "version": "1.0.0",
+  "description": "Boogle Book Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manorathn/BoogleBookSearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manorathn/BoogleBookSearch/issues"
+  },
+  "homepage": "https://github.com/manorathn/BoogleBookSearch#readme"
+}
